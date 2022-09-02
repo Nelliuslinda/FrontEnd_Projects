@@ -1,1 +1,1 @@
-Repo for the projects on Semantic HTML
+Projects on week 2 - Semantic HTML
